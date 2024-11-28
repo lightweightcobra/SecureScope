@@ -60,7 +60,7 @@ SecureScope is a modern Role-Based Access Control (RBAC) system built with React
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/securescope.git
+git clone https://github.com/lightweightcobra/SecureScope.git
 ```
 
 2. Install dependencies:
