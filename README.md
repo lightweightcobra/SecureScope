@@ -28,7 +28,6 @@ SecureScope is a modern Role-Based Access Control (RBAC) system built with React
 - Clean, intuitive interface
 - Responsive design
 - Real-time updates
-- Dark mode support
 
 ## Role Responsibilities
 
